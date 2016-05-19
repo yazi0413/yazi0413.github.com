@@ -7,7 +7,7 @@ tagline:             Xiaoming
 url:                 http://dapan88.com
 paginate:            1
 baseurl:             ""
-
+encoding:             utf-8
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Xiaoming
+  url:               https://dapan88.com
+  email:             digitalocean001@163.com
 
 # Custom vars
 version:             2.0.0
