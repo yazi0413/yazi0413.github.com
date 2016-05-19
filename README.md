@@ -1,2 +1,2 @@
 # yazi0413.github.com
-test github pages
+transfer wordpress to GitHub Pages
