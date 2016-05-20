@@ -1,0 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               小明教你看大盘
+tagline:             Xiaoming
+url:                 http://dapan88.com
+paginate:            1
+baseurl:             ""
+encoding:             utf-8
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Xiaoming
+  url:               https://dapan88.com
+  email:             digitalocean001@163.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
