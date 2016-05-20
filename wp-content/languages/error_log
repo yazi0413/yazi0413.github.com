@@ -1,1 +1,0 @@
-[23-Oct-2015 00:06:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/digitalocean002/public_html/wp-content/languages/zh_CN.php on line 31
